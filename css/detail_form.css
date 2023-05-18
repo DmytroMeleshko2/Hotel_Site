@@ -1,0 +1,83 @@
+.form-container {
+    max-width: 300px;
+    margin-right: 20px;
+    padding: 20px;
+    background-color: #0083CA;
+    border-radius: 5px;
+    box-sizing: inherit;
+}
+
+/* Form inputs */
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #f5f5f5;
+}
+
+input[type="date"],
+input[type="number"] {
+    width: 260px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.button_booking__input {
+    display: block;
+    width: 260px;
+    text-align: center;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: orange;
+    padding: 8px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.button_booking__input:hover {
+    background-color: darkorange;
+}
+
+.main_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.m_container {
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+h4{
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.h5{
+    font-size: 26px;
+}
+.description{
+    margin-top: 16px;
+    font-size: 18px;
+    font-style: italic;
+    text-align: left;
+    padding-right: 80px;
+    margin-bottom: 100px;
+}
+.header__title{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__title h3{
+    font-size: 36px;
+}

@@ -1,0 +1,21 @@
+.about__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+
+
+.image {
+    width: 540px;
+    height: 350px;
+    border-radius: 2%;
+}
+
+.about__item div {
+    max-width: 540px;
+}
+
+
+
+

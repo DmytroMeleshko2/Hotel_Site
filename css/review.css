@@ -1,0 +1,44 @@
+.customer-reviews {
+    display: flex;
+    grid-gap: 46px;
+    width: 1140px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.customer-review {
+    width: 30%;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+
+
+.customer-name {
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.customer-comment {
+    margin-top: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+.head_name {
+    padding: 40px;
+    text-align: center;
+}
+
+.title_name {
+    color: orange;
+    margin-bottom: 20px;
+}
+
+.title_description {
+    font-style: italic;
+}
